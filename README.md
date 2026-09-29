@@ -1,53 +1,47 @@
-👨‍💻 Román Acuña
-¡Hola! Soy Román, tengo 20 años y estoy en pleno camino como desarrollador Full Stack.
+# 👨‍💻 Román Acuña
 
-Me apasiona resolver desafíos, construir soluciones funcionales de extremo a extremo y transformar ideas en aplicaciones web reales.
+¡Hola! Soy Román, tengo 20 años y me dedico al desarrollo de software Full Stack.  
+Me enfoco en construir aplicaciones web funcionales, bien estructuradas y orientadas a resolver problemas reales, de principio a fin.
 
-📍 Vivo en Los Cocos, Córdoba, Argentina, y estudio la Tecnicatura Universitaria en Programación Full Stack en la Universidad Provincial de Córdoba.
+📍 **Los Cocos, Córdoba, Argentina**  
+🎓 **Estudiante de la Tecnicatura Universitaria en Programación Full Stack** | Universidad Provincial de Córdoba
 
-🚀 Tecnologías y Herramientas
-Mi stack de desarrollo está enfocado principalmente en el ecosistema de JavaScript/TypeScript y el desarrollo web moderno:
+---
 
-🟨 JavaScript (ES6+) & TypeScript: Lenguajes principales para desarrollo frontend y backend.
+## 🛠️ Stack Tecnológico
 
-🅰️ Angular: Framework principal para la construcción de interfaces de usuario robustas y reactivas.
+Especializado en el ecosistema de JavaScript/TypeScript y tecnologías web modernas:
 
-🎨 HTML5 & CSS3: Maquetación estructurada, diseño responsivo y estilos modernos.
+- **Frontend:** Angular, TypeScript, JavaScript (ES6+), HTML5, CSS3
+- **Backend & APIs:** Node.js, Express, Postman
+- **Bases de Datos:** PostgreSQL, SQL Server, MongoDB
+- **Cloud & Herramientas:** Firebase, Supabase, Git, GitHub, VS Code, Mapbox GL JS
 
-🛢️ Bases de Datos (SQL & NoSQL): PostgreSQL / SQL Server para datos relacionales y MongoDB para almacenamiento orientado a documentos.
+---
 
-🚀 Backend & Entorno: Node.js, Express y Firebase / Supabase para servicios de autenticación y hosting.
+## 📂 Proyectos Destacados
 
-📮 Postman: Testing, documentación y consumo eficiente de APIs RESTful.
+### 🗺️️ [Mapea Terrenos](https://mapea-terrenos.web.app/)
+Aplicación web interactiva para la visualización y medición perimetral de terrenos sobre cartografía 3D.
+- **Tecnologías:** Angular, TypeScript, Mapbox GL JS, HTML/CSS
+- **Funcionalidades:** Renderizado de mapas 3D, trazado interactivo de polígonos sobre el terreno y cálculo automático de distancias y superficies.
 
-🛠️ Herramientas de Trabajo: Visual Studio Code, Git, GitHub y Mapbox GL JS para integración de mapas interactivos.
+### 🧉 [Eneagrama y Matecitos](https://eneagrama-y-matecitos.web.app/inicio)
+Plataforma web enfocada en autoconocimiento que permite realizar test interactivos del eneagrama.
+- **Tecnologías:** Angular, TypeScript, HTML/CSS, Firebase
+- **Funcionalidades:** Cuestionario dinámico, procesamiento de resultados al instante y diseño responsivo adaptado a dispositivos móviles y desktop.
 
-📂 Proyectos Destacados
-🌐 Mapea Terrenos
-Aplicación web interactiva diseñada para la visualización y medición de perímetros de terrenos sobre cartografía 3D.
+---
 
-Stack: Angular, TypeScript, Mapbox GL JS, HTML5/CSS3.
+## 🎯 En qué estoy trabajando
 
-Características: Renderizado de mapas interactivos, trazado de polígonos sobre terreno en tiempo real y cálculo dinámico de métricas.
+- Desarrollo de arquitecturas escalables uniendo Angular con servicios backend.
+- Implementación de pruebas unitarias y de integración utilizando Jest.
+- Creación de soluciones web integrando mapas, APIs externas y persistencia de datos.
 
-🧉 Eneagrama y Matecitos
-Plataforma web dinámica orientada al autoconocimiento a través de tests interactivos del eneagrama con una experiencia de usuario ágil y cercana.
+---
 
-Stack: Angular, TypeScript, HTML/CSS, Firebase / MongoDB.
+## 📬 Contacto
 
-Características: Sistema de cuestionarios dinámicos, procesamiento de resultados en tiempo real e interfaz responsiva intuitiva.
-
-🎯 Próximos Objetivos
-🔸 Continuar desarrollando aplicaciones web complejas integrando arquitecturas escalables en backend y frontend.
-
-🔸 Optimizar el rendimiento y las buenas prácticas de pruebas (Jest) en mi flujo de desarrollo.
-
-🔸 Colaborar en proyectos de código abierto y software real para seguir aportando valor a la comunidad.
-
-📬 Contacto
-📧 Email: romancitoacuna2006@gmail.com
-
-💼 GitHub: github.com/romanacuna (o tu usuario directo)
-
-Gracias por pasarte por mi perfil 🙌
-
+- **Email:** [romancitoacuna2006@gmail.com](mailto:romancitoacuna2006@gmail.com)
+- **GitHub:** [github.com/romanacuna](https://github.com/romanacuna)
