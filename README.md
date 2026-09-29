@@ -1,50 +1,53 @@
-# 👨‍💻 Roman Acuña
+👨‍💻 Román Acuña
+¡Hola! Soy Román, tengo 20 años y estoy en pleno camino como desarrollador Full Stack.
 
-¡Hola! Soy Roman, tengo 18 años y estoy en pleno camino para convertirme en desarrollador Full Stack.  
-Me gustan los desafíos, aprender cosas nuevas y construir proyectos que funcionen de verdad.  
+Me apasiona resolver desafíos, construir soluciones funcionales de extremo a extremo y transformar ideas en aplicaciones web reales.
 
-📍 Vivo en Los Cocos,Cordoba, Argentina, y estudio la **Tecnicatura en Desarrollo de Software Full Stack** en la **Universidad Provincial de Córdoba**.
+📍 Vivo en Los Cocos, Córdoba, Argentina, y estudio la Tecnicatura Universitaria en Programación Full Stack en la Universidad Provincial de Córdoba.
 
----
+🚀 Tecnologías y Herramientas
+Mi stack de desarrollo está enfocado principalmente en el ecosistema de JavaScript/TypeScript y el desarrollo web moderno:
 
-## 🚀 En modo aprendizaje constante
+🟨 JavaScript (ES6+) & TypeScript: Lenguajes principales para desarrollo frontend y backend.
 
-Estoy metido de lleno en el mundo del software. Estas son algunas de las herramientas que estoy explorando y practicando:
+🅰️ Angular: Framework principal para la construcción de interfaces de usuario robustas y reactivas.
 
-- 🐍 **Python**: para lógica, automatización y desarrollo de pequeños scripts y apps.
-- 🧠 **PSeInt**: entrenando la mente con pseudocódigo y lógica algorítmica.
-- 🧮 **SQL Server**: consultas, estructuras relacionales y base sólida en bases de datos.
-- 🖥️ **Visual Studio Code**: mi lugar de trabajo favorito para programar.
-- 🔄 **Git & GitHub**: aprendiendo a colaborar, versionar y trabajar en equipo.
-- 🗺️ **Draw.io**: para mapear ideas con diagramas de flujo.
+🎨 HTML5 & CSS3: Maquetación estructurada, diseño responsivo y estilos modernos.
 
----
+🛢️ Bases de Datos (SQL & NoSQL): PostgreSQL / SQL Server para datos relacionales y MongoDB para almacenamiento orientado a documentos.
 
-## 🛠️ Qué estoy haciendo ahora
+🚀 Backend & Entorno: Node.js, Express y Firebase / Supabase para servicios de autenticación y hosting.
 
-✔️ Subiendo ejercicios, prácticas y apuntes mientras avanzo en la carrera  
-✔️ Fortaleciendo mis conocimientos en **backend** y manejo de datos  
-✔️ Aplicando buenas prácticas desde el comienzo: documentación, orden, lógica clara  
-✔️ Explorando ideas propias para convertir en proyectos reales
+📮 Postman: Testing, documentación y consumo eficiente de APIs RESTful.
 
----
+🛠️ Herramientas de Trabajo: Visual Studio Code, Git, GitHub y Mapbox GL JS para integración de mapas interactivos.
 
-## 🎯 Próximos objetivos
+📂 Proyectos Destacados
+🌐 Mapea Terrenos
+Aplicación web interactiva diseñada para la visualización y medición de perímetros de terrenos sobre cartografía 3D.
 
-🔸 Lanzar mis primeros proyectos personales usando **Python + SQL Server**  
-🔸 Crear pequeñas apps web con backend y frontend  
-🔸 Participar en proyectos colaborativos y aportar desde el aprendizaje  
-🔸 Usar GitHub como diario de mi progreso y evolución como programador
+Stack: Angular, TypeScript, Mapbox GL JS, HTML5/CSS3.
 
----
+Características: Renderizado de mapas interactivos, trazado de polígonos sobre terreno en tiempo real y cálculo dinámico de métricas.
 
-## 📬 ¿Charlamos?
+🧉 Eneagrama y Matecitos
+Plataforma web dinámica orientada al autoconocimiento a través de tests interactivos del eneagrama con una experiencia de usuario ágil y cercana.
 
-- 📧 **Email:** romancitoacuna2006@gmail.com  
-- 🌐 Portafolio: *en construcción (¡pronto online!)*
+Stack: Angular, TypeScript, HTML/CSS, Firebase / MongoDB.
 
----
+Características: Sistema de cuestionarios dinámicos, procesamiento de resultados en tiempo real e interfaz responsiva intuitiva.
 
-Gracias por pasarte por mi perfil 🙌  
-¡Estoy aprendiendo día a día y con muchas ganas de crear cosas grandes!
+🎯 Próximos Objetivos
+🔸 Continuar desarrollando aplicaciones web complejas integrando arquitecturas escalables en backend y frontend.
+
+🔸 Optimizar el rendimiento y las buenas prácticas de pruebas (Jest) en mi flujo de desarrollo.
+
+🔸 Colaborar en proyectos de código abierto y software real para seguir aportando valor a la comunidad.
+
+📬 Contacto
+📧 Email: romancitoacuna2006@gmail.com
+
+💼 GitHub: github.com/romanacuna (o tu usuario directo)
+
+Gracias por pasarte por mi perfil 🙌
 
